@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Playstation &#8211; MiGamer</title>
+	<atom:link href="https://migamer.netlify.app/categoria-producto/consolas/playstation/feed/" rel="self" type="application/rss+xml" />
+	<link>https://migamer.netlify.app</link>
+	<description></description>
+	<lastBuildDate>Tue, 30 Apr 2024 17:18:47 +0000</lastBuildDate>
+	<language>es-AR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>PS4 slim</title>
+		<link>https://migamer.netlify.app/producto/ps4-slim/</link>
+		
+		<dc:creator><![CDATA[MiGamer]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 17:18:47 +0000</pubDate>
+				<guid isPermaLink="false">https://migamer.netlify.app/?post_type=product#038;p=5755</guid>
+
+					<description><![CDATA[Consola Playstation Ps4 1tb God Of War Ragnarok Bundle Juegos increíbles y entretenimiento sin fin. La consola PS4 ofrece una potencia de juego impresionante, entretenimiento increíble y tecnología de HDR intenso. Más formas de jugar Almacena tus juegos, aplicaciones, capturas de pantalla y videos en hasta 1 TB de almacenamiento en la consola PS4: más [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Consola Playstation Ps4 1tb God Of War Ragnarok Bundle</p>
+<p>Juegos increíbles y entretenimiento sin fin.<br />
+La consola PS4 ofrece una potencia de juego impresionante, entretenimiento increíble y tecnología de HDR intenso.</p>
+<p>Más formas de jugar<br />
+Almacena tus juegos, aplicaciones, capturas de pantalla y videos en hasta 1 TB de almacenamiento en la consola PS4: más delgada y ligera que el modelo original y disponible en Jet Black y más colores.</p>
+<p>Juegos de PlayStation VR<br />
+Vive el juego de maneras nuevas y extraordinarias con PS4 y PlayStation VR. Solo conecta el casco de PS VR a la consola y sumérgete en impresionantes juegos, experiencias y entretenimiento de realidad virtual.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

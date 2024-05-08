@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Clash Royale &#8211; MiGamer</title>
+	<atom:link href="https://migamer.netlify.app/categoria-producto/recarga/clash-royale/feed/" rel="self" type="application/rss+xml" />
+	<link>https://migamer.netlify.app</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 Apr 2024 11:59:26 +0000</lastBuildDate>
+	<language>es-AR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Clash Royale</title>
+		<link>https://migamer.netlify.app/producto/clash-royale/</link>
+		
+		<dc:creator><![CDATA[MiGamer]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2024 11:50:28 +0000</pubDate>
+				<guid isPermaLink="false">https://migamer.netlify.app/?post_type=product#038;p=5679</guid>
+
+					<description><![CDATA[¡Entra en la arena! Forma tu mazo bélico y aventaja a tus rivales en batallas frenéticas en tiempo real. De los creadores de Clash of Clans, llega un juego de batallas multijugador en tiempo real con tus personajes favoritos del universo Clash y mucho más. ¡Comienza a luchar contra jugadores de todo el mundo!
+
+<b>¡TEN EN CUENTA! Clash Royale es gratuito para descargar y jugar, sin embargo, algunos objetos del juego también pueden comprarse con dinero real. Si no deseas utilizar esta función, por favor, desactiva las compras dentro de la aplicación en la configuración de tu dispositivo. Además, según nuestros Términos de Servicio y Política de Privacidad, debes tener al menos 16 años de edad para comprar Clash of Clans en Mi-Gamer.</b>]]></description>
+										<content:encoded><![CDATA[¡Entra en la arena! Forma tu mazo bélico y aventaja a tus rivales en batallas frenéticas en tiempo real. De los creadores de Clash of Clans, llega un juego de batallas multijugador en tiempo real con tus personajes favoritos del universo Clash y mucho más. ¡Comienza a luchar contra jugadores de todo el mundo!
+
+<b>¡TEN EN CUENTA! Clash Royale es gratuito para descargar y jugar, sin embargo, algunos objetos del juego también pueden comprarse con dinero real. Si no deseas utilizar esta función, por favor, desactiva las compras dentro de la aplicación en la configuración de tu dispositivo. Además, según nuestros Términos de Servicio y Política de Privacidad, debes tener al menos 16 años de edad para comprar Clash of Clans en Mi-Gamer.</b>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
